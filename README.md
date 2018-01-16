@@ -1,7 +1,3 @@
-# guided_perturbations
+Demo code for Guided Perturbations accompanying the paper:
 
-Code accompanying the paper:
-
-*Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks*, Swami Sankaranarayanan, Arpit Jain, and Ser Nam Lim.  International Conference on Computer Vision (ICCV) 2017.
-
-Code coming soon!
+Guided Perturbations: Self-Corrective for Semantic Segmentation and Classification, Swami Sankaranarayanan, Arpit Jain and Ser Nam Lim, Accepted to ICCV 2017.
